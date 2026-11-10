@@ -1,8 +1,0 @@
-{
-  "name": "Taskora",
-  "short_name": "Taskora",
-  "start_url": "/",
-  "display": "standalone",
-  "background_color": "#f7f8fc",
-  "theme_color": "#2458d3"
-}
